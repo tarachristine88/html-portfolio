@@ -1,2 +1,2 @@
 # html-portfolio
-Tara' experimental HTML portfolio - playing around!
+Tara's experimental HTML portfolio - playing around!
